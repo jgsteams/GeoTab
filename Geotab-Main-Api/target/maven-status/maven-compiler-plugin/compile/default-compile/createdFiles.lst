@@ -1,0 +1,4 @@
+com/geotab/api/BasicCountroller.class
+com/geotab/api/ServletInitializer.class
+com/geotab/api/SpringFoxConfig.class
+com/geotab/api/GeotabApisApplication.class
